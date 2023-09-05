@@ -1,0 +1,122 @@
+{
+    "O mito de Sísifo": {
+        "Autor": "Albert Camus",
+        "Genero": "Filosofia",
+        "Estoque": 5
+    },
+    "Memórias póstumas de Brás Cubas": {
+        "Autor": "Machado de Assis",
+        "Genero": "Literatura",
+        "Estoque": 10
+    },
+    "Cem Anos de Solidão": {
+        "Autor": "Gabriel García Márquez",
+        "Genero": "Literatura",
+        "Estoque": 8
+    },
+    "O Apanhador no Campo de Centeio": {
+        "Autor": "J.D. Salinger",
+        "Genero": "Literatura",
+        "Estoque": 7
+    },
+    "1984": {
+        "Autor": "George Orwell",
+        "Genero": "Ficção Científica",
+        "Estoque": 6
+    },
+    "Dom Quixote": {
+        "Autor": "Miguel de Cervantes",
+        "Genero": "Literatura Clássica",
+        "Estoque": 12
+    },
+    "A Revolução dos Bichos": {
+        "Autor": "George Orwell",
+        "Genero": "Ficção",
+        "Estoque": 9
+    },
+    "O Pequeno Príncipe": {
+        "Autor": "Antoine de Saint-Exupéry",
+        "Genero": "Literatura Infantil",
+        "Estoque": 15
+    },
+    "Crime e Castigo": {
+        "Autor": "Fiódor Dostoiévski",
+        "Genero": "Literatura Clássica",
+        "Estoque": 7
+    },
+    "A Metamorfose": {
+        "Autor": "Franz Kafka",
+        "Genero": "Literatura",
+        "Estoque": 11
+    },
+    "Apanhado Geral": {
+        "Autor": "Carlos Drummond de Andrade",
+        "Genero": "Poesia",
+        "Estoque": 4
+    },
+    "Ulisses": {
+        "Autor": "James Joyce",
+        "Genero": "Literatura Moderna",
+        "Estoque": 6
+    },
+    "Ensaio sobre a Cegueira": {
+        "Autor": "José Saramago",
+        "Genero": "Ficção",
+        "Estoque": 8
+    },
+    "A Guerra dos Tronos": {
+        "Autor": "George R.R. Martin",
+        "Genero": "Fantasia",
+        "Estoque": 10
+    },
+    "O Hobbit": {
+        "Autor": "J.R.R. Tolkien",
+        "Genero": "Fantasia",
+        "Estoque": 13
+    },
+    "O Nome do Vento": {
+        "Autor": "Patrick Rothfuss",
+        "Genero": "Fantasia",
+        "Estoque": 9
+    },
+    "O Senhor dos Anéis: A Sociedade do Anel": {
+        "Autor": "J.R.R. Tolkien",
+        "Genero": "Fantasia",
+        "Estoque": 7
+    },
+    "A Coragem de Ser Imperfeito": {
+        "Autor": "Brené Brown",
+        "Genero": "Autoajuda",
+        "Estoque": 6
+    },
+    "A Arte da Guerra": {
+        "Autor": "Sun Tzu",
+        "Genero": "Estratégia",
+        "Estoque": 8
+    },
+    "A Origem das Espécies": {
+        "Autor": "Charles Darwin",
+        "Genero": "Ciência",
+        "Estoque": 5
+    },
+    "Hamlet": {
+        "Autor": "Shakespaere",
+        "Genero": "teatro",
+        "Estoque": 1
+    },
+    "Dom casmurro": {
+        "Autor": "Machado de Assis",
+        "Genero": "Literatura",
+        "Estoque": 2
+    },
+    "Laranja mecanica": {
+        "Autor": "teste",
+        "Genero": "Ficção",
+        "Estoque": 10
+    },
+    "O Processo": {
+        "Autor": "Franz Kafka",
+        "Genero": "Literatura",
+        "Estoque": 20
+    }
+}
